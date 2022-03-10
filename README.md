@@ -12,13 +12,13 @@ I am a Software Engineer at TrialSpark and freelancing developer.
 <tr>
 <td>
 <a href="https://www.referican.com/">
-<img src="https://i.imgur.com/yDcFDvT.png">
+<img src="https://user-images.githubusercontent.com/30830407/157583210-e587cc70-3d60-4c56-ac5e-fc70e73ecd83.png">
 </img>
 </a>
 </td>
 <td>
 <a href="https://deart.vercel.app/">
-<img src="https://i.imgur.com/o5o1Dbc.png">
+<img src="https://user-images.githubusercontent.com/30830407/157583086-d664c8f6-0435-474d-a752-3b6741b0171d.png">
 </img>
 </a>
 </td>
