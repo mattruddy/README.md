@@ -1,9 +1,8 @@
-## Hello There, I'm Adam Geiger 🕺
+## I'm Matt Ruddy
 
-<a href="https://www.linkedin.com/in/agthatsme/"><img src="https://img.shields.io/badge/LinkedIn-agthatsme-0077B5?style=flat&logo=linkedin&logoColor=white"></img></a>
-<a href="https://dev.to/nrgapple"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/matthew-r-452860179/"><img src="https://img.shields.io/badge/LinkedIn-mattruddy-0077B5?style=flat&logo=linkedin&logoColor=white"></img></a>
 
-I am a Senior Software Engineer at Built Tech Inc. and freelancing developer.
+I am a Software Engineer at TrialSpark and freelancing developer.
 
 ## My Projects
 
@@ -18,14 +17,14 @@ I am a Senior Software Engineer at Built Tech Inc. and freelancing developer.
 </a>
 </td>
 <td>
-<a href="https://nospray.us">
-<img src="https://i.imgur.com/PUvEiv8.png">
+<a href="https://deart.vercel.app/">
+<img src="https://i.imgur.com/o5o1Dbc.png">
 </img>
 </a>
 </td>
 <td>
-<a href="https://deart.vercel.app/">
-<img src="https://i.imgur.com/o5o1Dbc.png">
+<a href="https://nospray.us">
+<img src="https://i.imgur.com/PUvEiv8.png">
 </img>
 </a>
 </td>
@@ -34,14 +33,14 @@ I am a Senior Software Engineer at Built Tech Inc. and freelancing developer.
 <td>
 <a href="https://github.com/nrgapple/historic-country-borders-app">Historic Borders</a>
 </td>
-<td>
-<a href="https://github.com/albatross-apps/pest-ui">
-NoSpray
+  <td>
+<a href="https://github.com/nrgapple/crypto-canvas-fe">
+DeArt
 </a>
 </td>
 <td>
-<a href="https://github.com/nrgapple/crypto-canvas-fe">
-DeArt
+<a href="https://github.com/albatross-apps/pest-ui">
+NoSpray
 </a>
 </td>
 </tr>
@@ -79,13 +78,13 @@ Created a map for viewing country borders throughout history. Integrated with Ma
 <a href="https://www.reddit.com/r/dataisbeautiful/comments/l52krh/an_app_i_made_for_visualizing_country_borders/">29k Upvotes on Reddit</a>
 
 </td>
-<td>
-Created a fully functional React PWA for licensed pesticide sprayers to see where sensitive individuals are to maintain a safe distance. Integrated with Mapbox for feature data. Integrated with Stripe for User's subscriptions.
+  <td>
+Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format.
 </td>
 <td>
-Developed a Full-Stack decentralized application which uses a deployed ERC721 smart contract to create NFT’s which store image files in webP format.
+Created a fully functional React PWA for licensed pesticide sprayers to see where sensitive individuals are to maintain a safe distance. Integrated with Mapbox for feature data. Integrated with Stripe for User's subscriptions.
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nrgapple"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=mattruddy"></img>
